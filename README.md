@@ -1,16 +1,28 @@
-## Hi there 👋
+# My GitHub Profile 🐾
 
-<!--
-**malhorse42/malhorse42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<pre style="font-family: monospace; font-size: 13px; line-height: 1.2; overflow-x: auto; background: transparent; border: none; padding: 0;">
+                                _/|__
+            _,-------,        _/ -|  \_     /~>.
+         _-~ __--~~/\ |      (  \   /  )   | / |
+      _-~__--    //   \\      \ *   * /   / | ||
+   _-~_--       //     ||      \     /   | /  /|
+  ~ ~~~~-_     //       \\     |( " )|  / | || /
+          \   //         ||    | VWV | | /  ///
 
-Here are some ideas to get you started:
+    |\     | //           \\ _/      |/ | ./|
+    | |    |// __         _-~         \// |  /
+   /  /   //_-~  ~~--_ _-~  /          |\// /
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  |  |   /-~        _-~    (     /   |/ / /
+ /   /           _-~  __    |   |____|/
+
+|   |__         / _-~  ~-_  (_______  `\
+|      ~~--__--~ /  _     \        __\)))
+ \               _-~       |     ./  \
+  ~~--__        /         /    _/     |
+        ~~--___/       _-_____/      /
+         _____/     _-_____/      _-~
+      /^<  ___       -____         -____
+         ~~   ~~--__      ``\--__       ``\
+                    ~~--\)\)\)   ~~--\)\)\)
+</pre>
